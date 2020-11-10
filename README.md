@@ -1,5 +1,6 @@
 # Weather Station
-Individually and group work for this course, check Project part for group work of "Project Report".
+The goal of this project is to build a weather station with real time notifications for climatology monitoring, interactive it with a cloud platform and analyse
+weather parameters.
  
 ## Project Details
 The final submit consists of these part
@@ -12,10 +13,10 @@ The final submit consists of these part
     ```
     python --version
     ```
-2. A Raspberry Pi 3 model B single-board computer
-3. A Sense HAT add-on board
-4. Download app "pushover notification" to your mobile device
-5. Create a firebase project
+2. A Raspberry Pi 3 model B single-board computer.
+3. A Sense HAT add-on board.
+4. Download app "pushover notification" to your mobile device.
+5. Create a firebase project [here](https://console.firebase.google.com/u/0/?pli=1).
 
 ### Installation
 These python libraries need be installed properlly using pip:
